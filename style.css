@@ -26,9 +26,11 @@ body a {
     text-transform: uppercase;
     padding: 10px;
     text-decoration: none;
+    letter-spacing: 1.2px;
+    font-weight: lighter;
     border-radius: 4px;
     border: 1px solid aqua;
-    border-style: dott2d;
+    border-style: dotted;
     transition: 0.5s ease;
 }
 
